@@ -14,4 +14,4 @@
 8. If you have any ideas for improvement, changes, refactor, feel free to implement them, for exampele new C# features.
 9. Use general programming good practices and coding standards.
 
-If have any questions please let me know: abronowicki@openskydata.com
+If have any questions please let us know: abronowicki@openskydata.com, mlinke@openskydata.com
